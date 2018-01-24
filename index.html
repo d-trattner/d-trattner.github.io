@@ -123,7 +123,10 @@
         // load readme
 
         $.get( "https://raw.githubusercontent.com/d-trattner/d-trattner.github.io/master/README.md", function( data ) {
-            var converter = new showdown.Converter(),
+            var converter = new showdown.Converter({
+                openLinksInNewWindow: true,
+                simplifiedAutoLink: true
+            }),
             html      = converter.makeHtml(data);
             $("#linkcollection").html( html );
         });
