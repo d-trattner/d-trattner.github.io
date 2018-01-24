@@ -8,8 +8,12 @@
     <title>Daniel's Playground</title>
 
     <!-- Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0-beta.3/darkly/bootstrap.min.css" rel="stylesheet" integrity="sha384-novkfxI48G9YvcamVHf01KL+Sm6JFherxeJKqUdbez8EoEsAued2k/cD43lYG+B1" crossorigin="anonymous">
+    <!--
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/slate/bootstrap.min.css" rel="stylesheet" integrity="sha384-RpX8okQqCyUNG7PlOYNybyJXYTtGQH+7rIKiVvg1DLg6jahLEk47VvpUyS+E2/uJ" crossorigin="anonymous">
+    -->
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -17,6 +21,9 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <style>
+        body {
+            background: rgb(0, 0, 0);
+        }
         @media (min-width: 1200px) {
             .container {
                 max-width: 600px;
@@ -41,16 +48,14 @@
             <p>Experiments using angular, three.js, whatever... </p>
         </div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">
+        <div class="card bg-light collect">
+            <div class="card-header">
                     Falling Sofas
                     <a href="/sofa" class="btn btn-default btn-sm pull-right" style="margin-top: -6px;">
                         <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> Start
                     </a>
-                </h3>
             </div>
-            <div class="panel-body">
+            <div class="card-body">
                 <ul>
                     <li>Hit 1 for earth gravity</li>
                     <li>Hit 2 for moon gravity</li>
@@ -59,32 +64,32 @@
             </div>
         </div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">
+        <div class="card bg-light collect">
+            <div class="card-header">
+                
                     Spaceship Zero
                     <a href="/space" class="btn btn-default btn-sm pull-right" style="margin-top: -6px;">
                         <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> Start
                     </a>
-                </h3>
+                
             </div>
-            <div class="panel-body">
+            <div class="card-body">
                 <ul>
                     <li>Hit 1 - 3 to change camera</li>
                 </ul>
             </div>
         </div>
 
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">
+        <div class="card bg-light collect">
+            <div class="card-header">
+                
                     Bot
                     <a href="https://www.danieltrattner.at" class="btn btn-default btn-sm pull-right" style="margin-top: -6px;">
                         <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span> Start
                     </a>
-                </h3>
+                
             </div>
-            <div class="panel-body">
+            <div class="card-body">
                 A simple implementation of DialogFlow, features:<br/>
                 <ul>
                     <li>German language only</li>
@@ -99,6 +104,11 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/JQuery-Snowfall/1.7.4/snowfall.jquery.min.js"></script>
+    <script>
+        $(document).snowfall({collection:$('.collect')});
+    </script>
   </body>
 </html>
