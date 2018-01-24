@@ -1,5 +1,3 @@
-## Link Collection
-
 # Github
 
 https://github.com/angular-buch/angular-cli-ghpages

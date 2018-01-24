@@ -99,6 +99,15 @@
             </div>
         </div>
 
+        <div class="card bg-light collect">
+                <div class="card-header">
+                    Link Collection
+                </div>
+                <div class="card-body" id="linkcollection">
+                    
+                </div>
+            </div>
+
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -107,8 +116,22 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/JQuery-Snowfall/1.7.4/snowfall.jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.min.js"></script>
     <script>
         $(document).snowfall({collection:$('.collect')});
+
+        // load readme
+
+        $.get( "https://raw.githubusercontent.com/d-trattner/d-trattner.github.io/master/README.md", function( data ) {
+            var converter = new showdown.Converter(),
+            html      = converter.makeHtml(data);
+            $("#linkcollection").html( html );
+        });
+
+        /*
+        
+        */
+
     </script>
   </body>
 </html>
