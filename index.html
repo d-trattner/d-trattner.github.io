@@ -9,7 +9,8 @@
 
     <!-- Bootstrap -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0-beta.3/darkly/bootstrap.min.css" rel="stylesheet" integrity="sha384-novkfxI48G9YvcamVHf01KL+Sm6JFherxeJKqUdbez8EoEsAued2k/cD43lYG+B1" crossorigin="anonymous">
+    <!--<link href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0-beta.3/darkly/bootstrap.min.css" rel="stylesheet" integrity="sha384-novkfxI48G9YvcamVHf01KL+Sm6JFherxeJKqUdbez8EoEsAued2k/cD43lYG+B1" crossorigin="anonymous">-->
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0-beta.3/lux/bootstrap.min.css" rel="stylesheet" integrity="sha384-XI0PIujkSZEzZ5m8WTEm+krRuIpfO+vHrEznaIrhTAkbrbIvfs11kzCqUarPR7yn" crossorigin="anonymous">
     <!--
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/slate/bootstrap.min.css" rel="stylesheet" integrity="sha384-RpX8okQqCyUNG7PlOYNybyJXYTtGQH+7rIKiVvg1DLg6jahLEk47VvpUyS+E2/uJ" crossorigin="anonymous">
@@ -42,16 +43,47 @@
                 max-width: 600px;
             }
         }
+
+        img.bg-img {
+            /* Set rules to fill background */
+            min-height: 100%;
+            min-width: 1024px;
+                
+            /* Set up proportionate scaling */
+            width: 100%;
+            height: auto;
+                
+            /* Set up positioning */
+            position: fixed;
+            top: 0;
+            left: 0;
+
+            z-index:-1;
+        }
+
+        @media screen and (max-width: 1024px) { /* Specific to this particular image */
+            img.bg-img {
+                left: 50%;
+                margin-left: -512px;   /* 50% */
+            }
+        }
+
+        h1, a, a:active, a:visited, a:hover{
+            color: #fff!important;
+        }
     </style>
   </head>
   <body>
+
+    <img src="bg.jpg" class="bg-img"/>
+
     <div class="container">
-        <div class="jumbotron">
-            <h1>Daniel's Playground</h1>
+        <div class="jumbotron text-white bg-primary">
+            <h1 class="text-white">Daniel's Playground</h1>
             <p>Experiments using angular, three.js, whatever... </p>
         </div>
 
-        <div class="card bg-light collect">
+        <div class="card text-white bg-primary collect">
             <div class="card-header">
                     Falling Sofas
                     <a href="/sofa" class="btn btn-default btn-sm pull-right" style="margin-top: -4px;float: right;">
@@ -67,7 +99,7 @@
             </div>
         </div>
 
-        <div class="card bg-light collect">
+        <div class="card text-white bg-primary collect">
             <div class="card-header">
                 
                     Spaceship Zero
@@ -83,7 +115,7 @@
             </div>
         </div>
 
-        <div class="card bg-light collect">
+        <div class="card text-white bg-primary collect">
             <div class="card-header">
                 
                     Bot
@@ -102,16 +134,18 @@
             </div>
         </div>
 
-        <div class="card bg-light collect">
+        <div class="card text-white bg-primary collect">
                 <div class="card-header">
                     Link Collection
                 </div>
-                <div class="card-body" id="linkcollection">
+                <div class="card-body text-white bg-primary" id="linkcollection">
                     
                 </div>
             </div>
 
     </div>
+
+    
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
