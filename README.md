@@ -10,6 +10,8 @@ https://github.com/playerx/angular-elements-sample
 
 https://github.com/playerx/angular-webcomponents-usage-sample
 
+http://nitayneeman.com/posts/a-practical-guide-to-angular-elements/
+
 # Node
 
 https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/
