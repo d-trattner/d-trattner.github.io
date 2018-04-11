@@ -258,3 +258,11 @@ https://github.com/bpampuch/pdfmake
 
 https://stackoverflow.com/questions/45136111/angular2-how-to-use-pdfmake-library
 
+
+
+
+# Credits
+
+Winter: https://github.com/loktar00/JQuery-Snowfall
+
+Summer: https://github.com/Auz/Bug
