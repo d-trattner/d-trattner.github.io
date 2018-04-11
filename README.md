@@ -6,6 +6,10 @@ https://github.com/angular-buch/angular-cli-ghpages
 
 https://github.com/angular/angular/issues/20891
 
+https://github.com/playerx/angular-elements-sample
+
+https://github.com/playerx/angular-webcomponents-usage-sample
+
 # Node
 
 https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/
