@@ -2,6 +2,10 @@
 
 https://github.com/angular-buch/angular-cli-ghpages
 
+# Angular Elements
+
+https://github.com/angular/angular/issues/20891
+
 # Node
 
 https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/
@@ -44,6 +48,8 @@ https://www.npmjs.com/package/@wkoza/ngx-upload
 
 # Angular Reactive
 
+https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
+
 http://brianflove.com/2017/04/10/angular-reactive-authentication/
 
 https://github.com/SekibOmazic/ngrx-auth-example
@@ -63,6 +69,12 @@ https://www.graph.cool/
 https://www.apollographql.com/docs/react/2.0-migration.html
 
 # Angular NGRX
+
+https://www.robinwieruch.de/redux-mobx-confusion/
+
+https://ericwangblog.github.io/Generate-Your-Ngrx/
+
+https://malcoded.com/posts/angular-ngrx-guide
 
 https://github.com/ngrx/example-app/issues/158
 
