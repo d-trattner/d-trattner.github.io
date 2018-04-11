@@ -2,7 +2,26 @@
 
 https://github.com/angular-buch/angular-cli-ghpages
 
-# Angular Elements
+
+
+
+# Angular
+
+## Angular 6+ Bazel
+
+https://jaxenter.com/angular-2018-roadmap-6-beyond-141917.html
+
+https://docs.google.com/document/d/1OlyiUnoTirUj4gecGxJeZBcjHcFr36RvLsvpBl2mxA8/preview#
+
+https://github.com/alexeagle/angular-bazel-example
+
+## Angular Ivy
+
+https://herringtondarkholme.github.io/2018/02/19/angular-ivy/
+
+https://github.com/angular/angular/issues/21706
+
+## Angular Elements
 
 https://github.com/angular/angular/issues/20891
 
@@ -11,6 +30,93 @@ https://github.com/playerx/angular-elements-sample
 https://github.com/playerx/angular-webcomponents-usage-sample
 
 http://nitayneeman.com/posts/a-practical-guide-to-angular-elements/
+
+## Angular RxJS
+
+https://yakovfain.com/2017/08/28/rxjs-essentials-part-1/
+
+https://yakovfain.com/2017/08/30/rxjs-essentials-part-2-map-filter-reduce/
+
+https://yakovfain.com/2017/09/01/rxjs-essentials-part-3-using-observable-create/
+
+https://yakovfain.com/2017/09/04/rxjs-essentials-part-4-using-subject/
+
+https://yakovfain.com/2017/09/07/rxjs-essentials-part-5-the-flatmap-operator/
+
+https://yakovfain.com/2017/09/19/rxjs-essentials-part-6-the-switchmap-operator/
+
+https://yakovfain.com/2017/10/03/rxjs-essentials-part-7-handling-errors-with-the-catch-operator/
+
+## Angular Material
+
+https://material.angular.io
+
+https://material.io/icons
+
+## Angular Material Table Expanded
+
+https://stackblitz.com/edit/angular-material2-expandable-rows-example-rc1-2uowvz?file=app%2Ftable-basic-example.html
+
+## Angular unsorted links
+
+https://www.npmjs.com/package/ng-animate
+
+https://github.com/angular/flex-layout/wiki/fxShow-API
+
+https://stackoverflow.com/questions/13905407/append-unit-type-to-the-result-of-a-calculation
+
+http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32
+
+https://github.com/jiayihu/pretty-algorithms
+
+https://github.com/jiayihu/awesome-angular-components
+
+https://www.npmjs.com/package/@wkoza/ngx-upload
+
+# Angular NGRX
+
+https://www.robinwieruch.de/redux-mobx-confusion/
+
+https://ericwangblog.github.io/Generate-Your-Ngrx/
+
+https://malcoded.com/posts/angular-ngrx-guide
+
+https://github.com/ngrx/example-app/issues/158
+
+https://github.com/ngrx/platform/pull/534#issuecomment-340521238
+
+https://paper.dropbox.com/doc/ngrxcodegen-Proposal-DhD934mmHfqTljpntnqJ3
+
+https://lmfinney.wordpress.com/2017/07/15/using-enums-to-reduce-boilerplate-in-ngrx/
+
+https://www.reddit.com/r/Angular2/comments/67coeo/ngrxstore_vs_angularreduxstore/
+
+https://blog.angularindepth.com/how-to-reduce-action-boilerplate-90dc3d389e2b
+
+https://github.com/cartant/ts-action/
+
+`npm install ts-action --save-dev`
+
+https://medium.com/ngrx/introducing-ngrx-entity-598176456e15
+
+`npm install @ngrx/entity --save`
+
+http://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/
+
+https://stackoverflow.com/questions/41707721/ngrxstore-and-angular-use-the-async-pipe-massively-or-subscribe-just-once-in-t
+
+https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+
+https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/
+
+https://hongbo-miao.gitbooks.io/angular2-server/content/part4/add-ngrx-store.html
+
+http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/
+
+
+
+
+
 
 # Node
 
@@ -36,23 +142,11 @@ http://andrewkelley.me/post/do-not-use-bodyparser-with-express-js.html
 
 https://www.npmjs.com/package/sharp
 
-# Angular
 
-https://www.npmjs.com/package/ng-animate
 
-https://github.com/angular/flex-layout/wiki/fxShow-API
 
-https://stackoverflow.com/questions/13905407/append-unit-type-to-the-result-of-a-calculation
 
-http://thesassway.com/intermediate/responsive-web-design-in-sass-using-media-queries-in-sass-32
-
-https://github.com/jiayihu/pretty-algorithms
-
-https://github.com/jiayihu/awesome-angular-components
-
-https://www.npmjs.com/package/@wkoza/ngx-upload
-
-# Angular Reactive
+# Reactive
 
 https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
 
@@ -74,49 +168,9 @@ https://www.graph.cool/
 
 https://www.apollographql.com/docs/react/2.0-migration.html
 
-# Angular NGRX
-
-https://www.robinwieruch.de/redux-mobx-confusion/
-
-https://ericwangblog.github.io/Generate-Your-Ngrx/
-
-https://malcoded.com/posts/angular-ngrx-guide
-
-https://github.com/ngrx/example-app/issues/158
-
-https://github.com/ngrx/platform/pull/534#issuecomment-340521238
-
-https://paper.dropbox.com/doc/ngrxcodegen-Proposal-DhD934mmHfqTljpntnqJ3
-
-https://lmfinney.wordpress.com/2017/07/15/using-enums-to-reduce-boilerplate-in-ngrx/
 
 
-https://www.reddit.com/r/Angular2/comments/67coeo/ngrxstore_vs_angularreduxstore/
 
-https://blog.angularindepth.com/how-to-reduce-action-boilerplate-90dc3d389e2b
-
-https://github.com/cartant/ts-action/
-
-`npm install ts-action --save-dev`
-
-https://medium.com/ngrx/introducing-ngrx-entity-598176456e15
-
-`npm install @ngrx/entity --save`
-
-http://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/
-
-
-https://stackoverflow.com/questions/41707721/ngrxstore-and-angular-use-the-async-pipe-massively-or-subscribe-just-once-in-t
-
-https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
-
-https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/
-
-
-https://hongbo-miao.gitbooks.io/angular2-server/content/part4/add-ngrx-store.html
-
-
-http://blog.mgechev.com/2016/04/10/scalable-javascript-single-page-app-angular2-application-architecture/
 
 
 # SAM
@@ -176,18 +230,31 @@ http://ai.stanford.edu/~ronnyk/ExPThinkWeek2009Public.pdf
 
 https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf
 
-# RxJS
 
-https://yakovfain.com/2017/08/28/rxjs-essentials-part-1/
 
-https://yakovfain.com/2017/08/30/rxjs-essentials-part-2-map-filter-reduce/
 
-https://yakovfain.com/2017/09/01/rxjs-essentials-part-3-using-observable-create/
 
-https://yakovfain.com/2017/09/04/rxjs-essentials-part-4-using-subject/
+# PDF GENERATION
 
-https://yakovfain.com/2017/09/07/rxjs-essentials-part-5-the-flatmap-operator/
+## JSPDF (currently no UTF-8 support)
 
-https://yakovfain.com/2017/09/19/rxjs-essentials-part-6-the-switchmap-operator/
+http://www.shanegibney.com/shanegibney/angular2-and-jspdf-file-generation/
 
-https://yakovfain.com/2017/10/03/rxjs-essentials-part-7-handling-errors-with-the-catch-operator/
+https://github.com/sphilee/jsPDF-CustomFonts-support
+
+https://github.com/eKoopmans/html2pdf
+
+https://github.com/simonbengtsson/jsPDF-AutoTable
+
+UTF-8 Support to come: https://github.com/april/decklist/issues/2
+
+## PDFMAKE (works great with Angular)
+
+http://pdfmake.org/#/gettingstarted
+
+http://pdfmake.org/playground.html
+
+https://github.com/bpampuch/pdfmake
+
+https://stackoverflow.com/questions/45136111/angular2-how-to-use-pdfmake-library
+
