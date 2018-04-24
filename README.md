@@ -7,6 +7,36 @@ https://github.com/angular-buch/angular-cli-ghpages
 
 # Angular
 
+## Strategy & Structure
+
+https://bertrandg.github.io/angular2-application-state-management-strategy/
+
+https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994
+
+## Performance
+
+https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
+
+## Upload
+
+https://plnkr.co/edit/VGCSprNVT1pobOxjWwmT?p=preview
+
+## Mocking
+
+http://jasonwatmore.com/post/2017/12/15/angular-5-mock-backend-example-for-backendless-development
+
+http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
+
+## Lazy
+
+https://blog.angular-university.io/angular2-ngmodule/
+
+https://github.com/josephliccini/ngx-lazy-view (for admin features)
+
+## Auth
+
+https://netbasal.com/implementing-auth-guard-with-componentless-route-in-angular-b50a21f3bd77
+
 ## Angular 6+ Bazel
 
 https://jaxenter.com/angular-2018-roadmap-6-beyond-141917.html
