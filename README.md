@@ -6,6 +6,20 @@ https://guides.github.com/features/mastering-markdown/
 
 
 
+
+# Flutter
+
+https://www.techierathore.com/2018/03/flutter-with-android-studio-step-by-step-installation-guide/
+
+https://www.c-sharpcorner.com/article/dissecting-a-flutter-app-folder-structure/
+
+https://github.com/FranPitri/flutter_redux_boilerplate
+
+https://medium.com/@swav.kulinski/spike-parallax-in-flutter-seven-lines-of-code-16a1890d8d32
+
+
+
+
 # Angular
 
 ## Strategy & Structure
@@ -21,6 +35,10 @@ https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
 ## Upload
 
 https://plnkr.co/edit/VGCSprNVT1pobOxjWwmT?p=preview
+
+## DND
+
+https://www.npmjs.com/package/ng2-dnd
 
 ## Mocking
 
