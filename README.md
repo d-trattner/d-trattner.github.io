@@ -24,6 +24,8 @@ https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 
 http://blog.rangle.io/dangerously-close-to-release-what-to-expect-in-angular-6-and-beyond/
 
+https://alligator.io/angular/angular-6/
+
 # Angular
 
 ## Strategy & Structure
