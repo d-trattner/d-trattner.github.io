@@ -22,6 +22,8 @@ https://medium.com/@swav.kulinski/spike-parallax-in-flutter-seven-lines-of-code-
 
 https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 
+http://blog.rangle.io/dangerously-close-to-release-what-to-expect-in-angular-6-and-beyond/
+
 # Angular
 
 ## Strategy & Structure
