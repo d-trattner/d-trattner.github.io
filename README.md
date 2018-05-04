@@ -18,7 +18,9 @@ https://github.com/FranPitri/flutter_redux_boilerplate
 https://medium.com/@swav.kulinski/spike-parallax-in-flutter-seven-lines-of-code-16a1890d8d32
 
 
+# Angular 6
 
+https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 
 # Angular
 
