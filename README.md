@@ -9,11 +9,7 @@ https://guides.github.com/features/mastering-markdown/
 
 https://jamstack.org
 
-https://cosmicjs.com/blog/how-to-build-a-jamstack-website
-
-https://www.contentful.com/r/knowledgebase/jamstack-cms/
-
-https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/
+https://www.netlify.com/
 
 
 # Flutter
