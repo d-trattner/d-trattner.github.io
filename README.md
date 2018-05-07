@@ -11,6 +11,15 @@ https://jamstack.org
 
 https://www.netlify.com/
 
+https://www.hawksworx.com/blog/isomorphic-rendering-on-the-jam-stack/
+
+https://www.contentful.com/r/knowledgebase/jamstack-cms/
+
+https://www.thenewdynamic.org/
+
+https://medium.com/@geeksamu/deploy-angular-5-application-to-netlify-35b8964bce99
+
+https://medium.com/@corymc/angular-seo-and-pre-rendering-with-netlify-c68b86a2ffd1
 
 # Flutter
 
