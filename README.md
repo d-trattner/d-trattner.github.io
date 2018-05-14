@@ -21,6 +21,16 @@ https://medium.com/@geeksamu/deploy-angular-5-application-to-netlify-35b8964bce9
 
 https://medium.com/@corymc/angular-seo-and-pre-rendering-with-netlify-c68b86a2ffd1
 
+https://thecodebee.com/4ways-to-host-angular-app-in-under-5-mins/
+
+https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d
+
+https://snipcart.com/blog/headless-angular-ecommerce-app
+
+https://medium.com/spektrakel-blog/angular-for-the-headless-web-dynamic-component-rendering-and-content-driven-apps-803da730d324
+
+https://medium.com/@dwalsh.sdlr/gatsby-apollo-graphcool-netlify-the-webs-promised-land-6dd510efbd72
+
 # Flutter
 
 https://www.techierathore.com/2018/03/flutter-with-android-studio-step-by-step-installation-guide/
@@ -41,6 +51,8 @@ http://blog.rangle.io/dangerously-close-to-release-what-to-expect-in-angular-6-a
 https://alligator.io/angular/angular-6/
 
 # Angular
+
+https://update.angular.io/
 
 ## Strategy & Structure
 
@@ -121,6 +133,10 @@ https://yakovfain.com/2017/10/03/rxjs-essentials-part-7-handling-errors-with-the
 https://material.angular.io
 
 https://material.io/icons
+
+Palette Generator:
+
+http://mcg.mbitson.com
 
 ## Angular Material Table Expanded
 
