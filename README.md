@@ -4,6 +4,13 @@ https://github.com/angular-buch/angular-cli-ghpages
 
 https://guides.github.com/features/mastering-markdown/
 
+# Tools
+
+https://bennettfeely.com/clippy/
+
+http://labs.jensimmons.com/
+
+https://bitsrc.io/
 
 # JAMStack
 
@@ -49,6 +56,10 @@ https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 http://blog.rangle.io/dangerously-close-to-release-what-to-expect-in-angular-6-and-beyond/
 
 https://alligator.io/angular/angular-6/
+
+https://stackoverflow.com/questions/50196282/http-post-and-get-request-in-angular-6
+
+https://stackblitz.com/angular/ooqemvjyqkb
 
 # Angular
 
