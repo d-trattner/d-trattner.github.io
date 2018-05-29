@@ -48,6 +48,11 @@ https://github.com/FranPitri/flutter_redux_boilerplate
 
 https://medium.com/@swav.kulinski/spike-parallax-in-flutter-seven-lines-of-code-16a1890d8d32
 
+# Flex Layout
+
+https://tburleson-layouts-demos.firebaseapp.com/#/responsive
+
+https://github.com/angular/flex-layout/wiki/fxShow-API
 
 # Angular 6
 
@@ -156,8 +161,6 @@ https://stackblitz.com/edit/angular-material2-expandable-rows-example-rc1-2uowvz
 ## Angular unsorted links
 
 https://www.npmjs.com/package/ng-animate
-
-https://github.com/angular/flex-layout/wiki/fxShow-API
 
 https://stackoverflow.com/questions/13905407/append-unit-type-to-the-result-of-a-calculation
 
