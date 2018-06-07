@@ -66,6 +66,20 @@ https://stackoverflow.com/questions/50196282/http-post-and-get-request-in-angula
 
 https://stackblitz.com/angular/ooqemvjyqkb
 
+# Angular Toolkit
+
+https://www.angular-universal-pwa.maciejtreder.com/
+
+https://github.com/maciejtreder/ng-toolkit
+
+https://github.com/maciejtreder/ng-toolkit/blob/master/schematics/init/README.md
+
+https://github.com/maciejtreder/ng-toolkit/blob/master/schematics/serverless/README.md
+
+https://github.com/maciejtreder/ng-toolkit/blob/master/schematics/universal/README.md
+
+
+
 # Angular
 
 https://update.angular.io/
