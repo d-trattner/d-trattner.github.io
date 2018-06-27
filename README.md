@@ -48,6 +48,12 @@ https://medium.com/spektrakel-blog/angular-for-the-headless-web-dynamic-componen
 
 https://medium.com/@dwalsh.sdlr/gatsby-apollo-graphcool-netlify-the-webs-promised-land-6dd510efbd72
 
+https://www.netlify.com/blog/2018/03/20/netlifys-aws-lambda-functions-bring-the-backend-to-your-frontend-workflow/
+
+https://macarthur.me/posts/building-a-lambda-function-with-netlify/
+
+https://www.netlify.com/docs/functions/ 
+
 # Flutter
 
 https://www.techierathore.com/2018/03/flutter-with-android-studio-step-by-step-installation-guide/
