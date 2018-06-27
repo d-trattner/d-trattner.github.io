@@ -12,6 +12,16 @@ http://labs.jensimmons.com/
 
 https://bitsrc.io/
 
+# Legals
+
+https://www.npmjs.com/package/angular2-cookie-law
+
+https://github.com/tinesoft/ngx-cookieconsent
+
+# Charts
+
+https://github.com/swimlane/ngx-charts
+
 # JAMStack
 
 https://jamstack.org
@@ -67,6 +77,8 @@ https://stackoverflow.com/questions/50196282/http-post-and-get-request-in-angula
 https://stackblitz.com/angular/ooqemvjyqkb
 
 # Angular Toolkit
+
+https://medium.com/@maciejtreder/angular-server-side-rendering-with-ng-toolkit-universal-c08479ca688
 
 https://www.angular-universal-pwa.maciejtreder.com/
 
