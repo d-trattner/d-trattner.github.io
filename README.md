@@ -12,6 +12,18 @@ http://labs.jensimmons.com/
 
 https://bitsrc.io/
 
+https://github.com/compodoc/compodoc
+
+https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
+
+https://github.com/mgechev/codelyzer#how-to-use
+
+https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+
+https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd
+
+https://github.com/mgechev/ngrev
+
 # Legals
 
 https://www.npmjs.com/package/angular2-cookie-law
@@ -161,6 +173,8 @@ https://github.com/playerx/angular-webcomponents-usage-sample
 http://nitayneeman.com/posts/a-practical-guide-to-angular-elements/
 
 ## Angular RxJS
+
+https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 
 https://yakovfain.com/2017/08/28/rxjs-essentials-part-1/
 
