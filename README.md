@@ -220,6 +220,8 @@ https://www.npmjs.com/package/@wkoza/ngx-upload
 
 # Angular NGRX
 
+https://github.com/johnpapa/ngrx-data-lab
+
 https://www.robinwieruch.de/redux-mobx-confusion/
 
 https://ericwangblog.github.io/Generate-Your-Ngrx/
