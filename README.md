@@ -158,6 +158,8 @@ https://github.com/alexeagle/angular-bazel-example
 
 ## Angular Ivy
 
+https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1
+
 https://herringtondarkholme.github.io/2018/02/19/angular-ivy/
 
 https://github.com/angular/angular/issues/21706
