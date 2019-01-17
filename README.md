@@ -410,6 +410,13 @@ https://stackoverflow.com/questions/45136111/angular2-how-to-use-pdfmake-library
 
 
 
+# CSS
+
+https://css-tricks.com/building-skeleton-screens-css-custom-properties/
+
+
+
+
 # Credits
 
 Winter: https://github.com/loktar00/JQuery-Snowfall
