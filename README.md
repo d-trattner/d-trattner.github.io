@@ -4,6 +4,14 @@ https://github.com/angular-buch/angular-cli-ghpages
 
 https://guides.github.com/features/mastering-markdown/
 
+# AI / Neural Networks / Machine Learning
+
+https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1
+
+https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
+
+
+
 # Tools
 
 https://bennettfeely.com/clippy/
