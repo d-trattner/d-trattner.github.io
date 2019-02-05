@@ -158,9 +158,8 @@
     <script src="bug-min.js"></script>
     
     <script>
-        //$(document).snowfall({collection:$('.collect')});
-
-        new BugController({'minBugs':10, 'maxBugs':50, 'mouseOver':'die'});
+        $(document).snowfall({collection:$('.collect')});
+        //new BugController({'minBugs':10, 'maxBugs':50, 'mouseOver':'die'});
 
         $.get( "https://raw.githubusercontent.com/d-trattner/d-trattner.github.io/master/README.md", function( data ) {
             var converter = new showdown.Converter({
