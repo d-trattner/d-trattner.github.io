@@ -425,6 +425,18 @@ https://stackoverflow.com/questions/45136111/angular2-how-to-use-pdfmake-library
 https://css-tricks.com/building-skeleton-screens-css-custom-properties/
 
 
+# React
+
+https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6
+
+https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2
+
+https://reactjs.org/tutorial/tutorial.html
+
+https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+
+https://reactjs.org/docs/hooks-intro.html
+
 
 
 # Credits
