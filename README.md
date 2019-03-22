@@ -441,6 +441,10 @@ https://www.valentinog.com/blog/hooks/
 
 https://developer.microsoft.com/en-us/fabric#/components
 
+https://medium.com/@rossbulat/the-future-of-react-reducers-and-global-state-management-30cda8a3b082
+
+https://www.toptal.com/react/navigating-the-react-ecosystem
+
 
 
 # Credits
