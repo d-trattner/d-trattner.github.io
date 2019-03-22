@@ -445,6 +445,12 @@ https://medium.com/@rossbulat/the-future-of-react-reducers-and-global-state-mana
 
 https://www.toptal.com/react/navigating-the-react-ecosystem
 
+https://github.com/formsy/formsy-react/
+
+https://github.com/twisty/formsy-react-components
+
+https://react-bootstrap.github.io/
+
 
 
 # Credits
