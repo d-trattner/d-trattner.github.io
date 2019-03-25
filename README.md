@@ -453,6 +453,7 @@ https://react-bootstrap.github.io/
 
 https://hackernoon.com/react-project-architecture-using-barrels-d086146eb0f6
 
+https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1
 
 
 # Credits
