@@ -451,6 +451,8 @@ https://github.com/twisty/formsy-react-components
 
 https://react-bootstrap.github.io/
 
+https://hackernoon.com/react-project-architecture-using-barrels-d086146eb0f6
+
 
 
 # Credits
